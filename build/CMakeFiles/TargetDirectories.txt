@@ -1,0 +1,6 @@
+/home/ldkge/Documents/git/inemo_node/build/CMakeFiles/clean_test_results.dir
+/home/ldkge/Documents/git/inemo_node/build/CMakeFiles/doxygen.dir
+/home/ldkge/Documents/git/inemo_node/build/gtest/CMakeFiles/gtest.dir
+/home/ldkge/Documents/git/inemo_node/build/gtest/CMakeFiles/gtest_main.dir
+/home/ldkge/Documents/git/inemo_node/build/CMakeFiles/run_tests.dir
+/home/ldkge/Documents/git/inemo_node/build/CMakeFiles/tests.dir
