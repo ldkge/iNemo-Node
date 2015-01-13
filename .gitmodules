@@ -1,3 +1,6 @@
 [submodule "src/serial"]
 	path = src/serial
 	url = https://github.com/wjwwood/serial.git
+[submodule "src/ST-iNemo_M1-IMU"]
+	path = src/ST-iNemo_M1-IMU
+	url = https://github.com/Myzhar/ST-iNemo_M1-IMU.git
